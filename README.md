@@ -1,8 +1,8 @@
-# Portfólio Tiago Santos da Silva
+# Portfólio - Tiago Santos da Silva
 
 ### Descrição
 
-Olá meu nome é Tiago sou um desenvolvedor de software e aqui está o meu repositório de código onde estão contidas informações sobre mim e sobre minhas habilidades profissionais (Hard Skills e Soft Skills).
+Olá! Meu nome é Tiago sou um desenvolvedor de software e aqui está o meu repositório de código onde estão contidas informações sobre mim e sobre minhas habilidades profissionais (Hard Skills e Soft Skills).
 
 ### Como rodar o projeto
 
